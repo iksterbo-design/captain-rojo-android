@@ -1,0 +1,18 @@
+# Build outputs
+app/build/
+*.apk
+*.aab
+
+# Editor / OS junk
+.DS_Store
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Machine junk
+nul
